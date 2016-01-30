@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mr. Skylar",
+    "testimonial": "Dolorem expedita voluptas aut repellendus nihil ipsum perspiciatis ex.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/1"
+  },
+  {
+    "name": "Jedediah Schultz Jr.",
+    "testimonial": "Ea explicabo impedit necessitatibus soluta.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/2"
+  },
+  {
+    "name": "Claud Flatley",
+    "testimonial": "Fuga et optio sit.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/3"
+  },
+  {
+    "name": "Eleanora Reichert",
+    "testimonial": "Blanditiis sed nihil excepturi ad dolorum qui.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/4"
+  },
+  {
+    "name": "Miss Bettye Wuckert",
+    "testimonial": "Minus nobis omnis ut ut.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/5"
+  }
+]

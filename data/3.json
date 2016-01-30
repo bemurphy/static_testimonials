@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Aisha Wilkinson",
+    "testimonial": "Harum est ut consequatur eum ullam aspernatur.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/1"
+  },
+  {
+    "name": "Clementina Lehner",
+    "testimonial": "Provident omnis quidem minima at voluptates aliquam voluptatem.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/2"
+  },
+  {
+    "name": "Lea Deckow",
+    "testimonial": "Debitis aut nesciunt repellat.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/3"
+  },
+  {
+    "name": "Aliza Spinka",
+    "testimonial": "Et et cum quae architecto saepe optio quam officiis.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/4"
+  },
+  {
+    "name": "Llewellyn Parker PhD",
+    "testimonial": "Repellendus est vero deleniti iure qui velit nihil.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/5"
+  }
+]

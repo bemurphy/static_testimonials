@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Bertrand Schaden II",
+    "testimonial": "Sit facilis iste omnis sint ut et aspernatur totam.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/1"
+  },
+  {
+    "name": "Kailyn Haley",
+    "testimonial": "Voluptas amet rerum qui fuga molestiae.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/2"
+  },
+  {
+    "name": "Karen Raynor II",
+    "testimonial": "Quia aliquid est tempora ut veritatis eligendi molestiae.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/3"
+  },
+  {
+    "name": "Ms. Nathen Batz",
+    "testimonial": "Nihil ratione dolores voluptas ut eaque qui facere.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/4"
+  },
+  {
+    "name": "Rowland Yost",
+    "testimonial": "Facilis officia ab fugiat neque ducimus.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/5"
+  }
+]

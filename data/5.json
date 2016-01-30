@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mrs. Nat Botsford",
+    "testimonial": "Rem sint repellat voluptas ab ipsa sit.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/1"
+  },
+  {
+    "name": "Remington Kulas",
+    "testimonial": "Omnis voluptatum deleniti sint pariatur exercitationem eum voluptas.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/2"
+  },
+  {
+    "name": "Delores Cummerata DVM",
+    "testimonial": "Aut architecto molestiae error enim nihil excepturi.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/3"
+  },
+  {
+    "name": "Felicita Shields",
+    "testimonial": "Quia earum labore quos ipsa minima.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/4"
+  },
+  {
+    "name": "Daphne Howe DVM",
+    "testimonial": "Ex et quaerat est accusantium laborum repudiandae non.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/5"
+  }
+]

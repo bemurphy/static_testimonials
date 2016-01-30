@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Dewayne Rock",
+    "testimonial": "I really love how easy it was to use! It made me smile. Kinda. No, really.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/1"
+  },
+  {
+    "name": "Jayda Dicki",
+    "testimonial": "Aperiam adipisci numquam voluptates magnam.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/2"
+  },
+  {
+    "name": "Mose Satterfield",
+    "testimonial": "Enim suscipit recusandae officia aut quas.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/3"
+  },
+  {
+    "name": "Garry O'Kon I",
+    "testimonial": "Consequatur qui dignissimos eligendi occaecati aut temporibus itaque quo.",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/4"
+  },
+  {
+    "name": "Mr. Nils Heaney",
+    "testimonial": "I love the flashy colors!",
+    "avatar_url": "http://dev-faces.herokuapp.com/face/48/5"
+  }
+]
